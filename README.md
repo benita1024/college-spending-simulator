@@ -1,4 +1,4 @@
-#  Markov Chain Simulator: Behavioral Modeling
+#  Broke by Friday? A Markov Chain Simulator of College Spending
 
 This project simulates a user's journey through various **states** using a **Markov chain model**, where each action leads to probabilistic transitions. Built for academic exploration, this model offers insight into how choices over time influence state changes—financial, behavioral, emotional, or otherwise.
 
